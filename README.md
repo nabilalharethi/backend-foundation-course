@@ -1,7 +1,7 @@
 
 # Backend Learning Journey
 
-My journey in  learning  backend engineering. Documenting every step of the learning process.
+This is a  backend foundation course is structured into 24 daily chapters, but learners can progress at their own pace.
 
 ## Progress
 - [x] Day 1: Getting Started with Node.js
