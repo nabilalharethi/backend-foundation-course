@@ -1,12 +1,12 @@
 
 # Backend Learning Journey
 
-This is a  backend foundation course is structured into 24 daily chapters, but learners can progress at their own pace.
+This is a  backend foundation course is structured into 24 chapters, but learners can progress at their own pace.
 
 ## Progress
-- [x] Day 1: Getting Started with Node.js
-- [ ] Day 2: JavaScript Functions and Asynchronous Programming
-- [ ] Day 3: File System Operations
+- [x] chapter 1: Getting Started with Node.js
+- [ ] chapter 2: JavaScript Functions and Asynchronous Programming
+- [ ] chapter 3: File System Operations
 - [ ] More to come...
 
 ## Technologies
