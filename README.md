@@ -15,4 +15,6 @@ This is a  backend foundation course is structured into 24 chapters, but learner
 - NPM
 
 ## Projects
-Each day's work is in its own folder with complete documentation.
+Each chapter is in its own folder with complete documentation.
+## note
+This is meant as a self learning course
